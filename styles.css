@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: bisque;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+span {
+  margin: 0 5px 0 5px;
+}
+
+.navigation {
+  all: none;
+  color: black;
+  text-decoration: none;
+}
